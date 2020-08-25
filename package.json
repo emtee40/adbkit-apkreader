@@ -1,6 +1,6 @@
 {
   "name": "@devicefarmer/adbkit-apkreader",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Extracts information from APK files.",
   "keywords": [
     "adb",
@@ -11,13 +11,13 @@
     "AndroidManifest"
   ],
   "bugs": {
-    "url": "https://github.com/openstf/adbkit-apkreader/issues"
+    "url": "https://github.com/DeviceFarmer/adbkit-apkreader/issues"
   },
   "license": "Apache-2.0",
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openstf/adbkit-apkreader.git"
+    "url": "https://github.com/DeviceFarmer/adbkit-apkreader.git"
   },
   "dependencies": {
     "bluebird": "^3.4.7",
